@@ -36,7 +36,7 @@ This project solves the need for a lightweight task tracker that works entirely 
 
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://todo-app-krb.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://krowey-richmond.github.io/todo-app/)
 
 ---
 
